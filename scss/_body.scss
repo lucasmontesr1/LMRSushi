@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
+
+body {
+    background-image: url(../images/fondofinal.jpg);
+    text-align: center;
+    font-size: 180%;
+    margin: 40px;
+    font-family: Calibri, arial, sans-serif;
+    border-style: solid;
+    border-width: 8px;
+    border-color: black;
+
+
+}
+
+.card:hover {
+    transform: translate(2px, 2px);
+    background-color: transparent;
+}
+
+
+
+
+
+
+
+

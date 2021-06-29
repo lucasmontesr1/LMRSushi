@@ -1,0 +1,10 @@
+@mixin condition($colorIf) {
+    background-color: $colorIf;
+    @if $colorIf == red {
+        text-shadow: 5px 5px 2px violet,
+        8px 8px 3px blue;
+    } @else {
+        text-shadow: blue;
+
+    }
+}

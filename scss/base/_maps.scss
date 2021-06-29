@@ -1,0 +1,20 @@
+$maps : (
+  wpp: green,
+  face: lightblue,
+  insta: brown,
+
+  border-top:1px solid lightblue,
+
+);
+
+.wpp {
+    background-color: map-get($maps, wpp );
+}
+
+.insta {
+    background-color: map-get($maps, insta );
+}
+
+.face {
+    background-color: map-get($maps , face );
+}
