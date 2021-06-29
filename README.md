@@ -4,7 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/lucas-montes-0b6221176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas montes" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lucas-montes-0b6221176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas montes" height="30" width="40" /></a>
 <a href="https://instagram.com/lucasmontes7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucasmontes7" height="30" width="40" /></a>
 <a href="https://discord.gg/lucasmrr#9980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lucasmrr#9980" height="30" width="40" /></a>
 </p>
