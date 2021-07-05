@@ -1,32 +1,45 @@
-.wpp  {
-    width: 50px;
-    height: 50px;
+.logo {
+  width: 200px;
+  height: 200px;
+  
+}
+
+.wpp {
+  width: 50px;
+  height: 50px;
 
 }
 
 .face {
-    width: 50px;
-    height: 50px;
+  width: 50px;
+  height: 50px;
 }
 
 
 .insta {
-    width: 50px;
-    height: 50px;
+  width: 50px;
+  height: 50px; 
 }
 
-
-
 .mapa {
-    width: 450px;
-    height: 300px;
-    width: 90%;
+  width: 450px;
+  height: 300px;
+  width: 90%;
 }
 
 .item-fixed {
-    position: fixed;
-    bottom: 0;
-    right: 0;
-    margin: 45px;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  margin: 45px;
+
+}
+
+.imagen {
+
+  width:100%;
+  height:auto;
+
+
 
 }

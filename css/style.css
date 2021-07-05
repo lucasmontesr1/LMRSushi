@@ -3,7 +3,7 @@
   margin: 0; }
 
 body {
- background-image: url(images/fondofinal.jpg);
+  background-image: url(images/fondofinal.jpg);
   text-align: center;
   font-size: 180%;
   margin: 0px;
@@ -15,6 +15,10 @@ body {
 .card:hover {
   transform: translate(2px, 2px);
   background-color: transparent; }
+
+.logo {
+  width: 200px;
+  height: 200px; }
 
 .wpp {
   width: 50px;
@@ -31,25 +35,23 @@ body {
 .mapa {
   width: 450px;
   height: 300px;
-  width: 90%;
- }
+  width: 90%; }
 
 .item-fixed {
   position: fixed;
   bottom: 0;
   right: 0;
   margin: 45px; }
-  
+
+.imagen {
+  width: 100%;
+  height: auto; }
 
 h1 {
-  text-shadow: 3px 3px 1px red,
- 5px 5px 2px violet,
- 8px 8px 3px blue; }
+  text-shadow: 3px 3px 1px red, 5px 5px 2px violet, 8px 8px 3px blue; }
 
 h2 {
-  text-shadow: 3px 3px 1px violet,
- 5px 5px 2px red,
- 8px 8px 3px blue; }
+  text-shadow: 3px 3px 1px violet, 5px 5px 2px red, 8px 8px 3px blue; }
 
 h3 {
   text-shadow: 7px 4px 5px blue;
@@ -168,9 +170,7 @@ h4 {
   margin: 0 auto; }
 
 h2 {
-  text-shadow: 3px 3px 1px,
- 5px 5px 2px violet,
- 8px 8px 3px blue; }
+  text-shadow: 3px 3px 1px, 5px 5px 2px violet, 8px 8px 3px blue; }
 
 .wpp {
   background-color: green; }
